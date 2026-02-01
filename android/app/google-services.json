@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "494840137499",
+    "project_id": "innsight-a1a34",
+    "storage_bucket": "innsight-a1a34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494840137499:android:e51d0e6889b908f70875be",
+        "android_client_info": {
+          "package_name": "com.example.innsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494840137499-lkbohk10j01f68uri78asvp4k34hjdro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.innsight",
+            "certificate_hash": "08b838996b60c2ccf02e144fc20b627b37f09c48"
+          }
+        },
+        {
+          "client_id": "494840137499-pjcseo5saq0lu3nbdi2mpkqv06t6qqdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXiXCffP_9MGGdwqm8GRYM6bB3h1GFOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494840137499-pjcseo5saq0lu3nbdi2mpkqv06t6qqdh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494840137499-geccv3mpqdfdv086ed7gntersv3jjnb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.innsight"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
